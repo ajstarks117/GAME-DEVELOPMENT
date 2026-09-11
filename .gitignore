@@ -1,0 +1,30 @@
+# Node dependencies and build output
+node_modules/
+dist/
+build/
+
+# Unity generated files and folders
+[Bb]uild/
+[Bb]uilds/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+.vs/
+
+# IDE and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Unity generated solution files
+*.csproj
+*.sln
+*.slnx
+*.userprefs
+
+# Keep Unity project packages and settings tracked
+!UNITY PROJECTS/My project/Packages/
+!UNITY PROJECTS/My project/ProjectSettings/
